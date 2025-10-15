@@ -7,10 +7,13 @@ public class LineNumber {
 
         System.out.print("Enter a line number: ");
         numba = input.nextInt();
+
+        input.nextLine();
+        
         System.out.print("Enter a sentence: ");
         fn = input.nextLine();
 
-        System.out.println(fn + ". " + numba);
+        System.out.println(numba + ". " + fn);
        
     }
 }
