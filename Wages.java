@@ -21,5 +21,6 @@ public class Wages {
             System.out.println();
             i++;
         }
+        input.close();
     }
 }
