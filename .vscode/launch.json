@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Triangle6",
+            "request": "launch",
+            "mainClass": "Triangle6",
+            "projectName": "Software-Development-1_ad278edb"
+        },
+        {
+            "type": "java",
+            "name": "Guess2",
+            "request": "launch",
+            "mainClass": "Guess2",
+            "projectName": "Software-Development-1_ad278edb"
+        },
+        {
+            "type": "java",
+            "name": "RectanglePattern",
+            "request": "launch",
+            "mainClass": "RectanglePattern",
+            "projectName": "Software-Development-1_ad278edb"
+        },
+        {
+            "type": "java",
+            "name": "Squarepattern",
+            "request": "launch",
+            "mainClass": "Squarepattern",
+            "projectName": "Software-Development-1_ad278edb"
+        },
+        {
+            "type": "java",
+            "name": "Question6",
+            "request": "launch",
+            "mainClass": "Question6",
+            "projectName": "Software-Development-1_ad278edb"
+        },
+        {
+            "type": "java",
+            "name": "Question5",
+            "request": "launch",
+            "mainClass": "Question5",
+            "projectName": "Software-Development-1_ad278edb"
+        },
+        {
+            "type": "java",
+            "name": "Question3",
+            "request": "launch",
+            "mainClass": "Question3",
+            "projectName": "Software-Development-1_ad278edb"
+        },
+        {
+            "type": "java",
             "name": "Question2",
             "request": "launch",
             "mainClass": "Question2",
