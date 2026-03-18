@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ThirdArray",
+            "request": "launch",
+            "mainClass": "ThirdArray",
+            "projectName": "Software-Development-1_ad278edb"
+        },
+        {
+            "type": "java",
+            "name": "SecondArray",
+            "request": "launch",
+            "mainClass": "SecondArray",
+            "projectName": "Software-Development-1_ad278edb"
+        },
+        {
+            "type": "java",
+            "name": "FirstArray",
+            "request": "launch",
+            "mainClass": "FirstArray",
+            "projectName": "Software-Development-1_ad278edb"
+        },
+        {
+            "type": "java",
+            "name": "IntArray3",
+            "request": "launch",
+            "mainClass": "IntArray3",
+            "projectName": "Software-Development-1_ad278edb"
+        },
+        {
+            "type": "java",
+            "name": "IntArray",
+            "request": "launch",
+            "mainClass": "IntArray",
+            "projectName": "Software-Development-1_ad278edb"
+        },
+        {
+            "type": "java",
+            "name": "Triangle21",
+            "request": "launch",
+            "mainClass": "Triangle21",
+            "projectName": "Software-Development-1_ad278edb"
+        },
+        {
+            "type": "java",
             "name": "Triangle6",
             "request": "launch",
             "mainClass": "Triangle6",
