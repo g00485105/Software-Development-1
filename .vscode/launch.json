@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FifthArray",
+            "request": "launch",
+            "mainClass": "FifthArray",
+            "projectName": "Software-Development-1_ad278edb"
+        },
+        {
+            "type": "java",
+            "name": "FourthArray",
+            "request": "launch",
+            "mainClass": "FourthArray",
+            "projectName": "Software-Development-1_ad278edb"
+        },
+        {
+            "type": "java",
             "name": "ThirdArray",
             "request": "launch",
             "mainClass": "ThirdArray",
