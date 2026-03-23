@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EightArray",
+            "request": "launch",
+            "mainClass": "EightArray",
+            "projectName": "Software-Development-1_ad278edb"
+        },
+        {
+            "type": "java",
+            "name": "SeventhArray",
+            "request": "launch",
+            "mainClass": "SeventhArray",
+            "projectName": "Software-Development-1_ad278edb"
+        },
+        {
+            "type": "java",
+            "name": "SixthArray",
+            "request": "launch",
+            "mainClass": "SixthArray",
+            "projectName": "Software-Development-1_ad278edb"
+        },
+        {
+            "type": "java",
             "name": "FifthArray",
             "request": "launch",
             "mainClass": "FifthArray",
