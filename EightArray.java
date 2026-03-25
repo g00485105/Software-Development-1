@@ -21,6 +21,8 @@ public public class EightArray {
                     ix[j] = x[i];
                     j++;
                 }
+            for(int i = 0, j = 0; i < x.length; i++){
+                s
             }
         }
     }

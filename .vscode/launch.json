@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Methods",
+            "request": "launch",
+            "mainClass": "Methods",
+            "projectName": "Software-Development-1_ad278edb"
+        },
+        {
+            "type": "java",
+            "name": "TwoDArray",
+            "request": "launch",
+            "mainClass": "TwoDArray",
+            "projectName": "Software-Development-1_ad278edb"
+        },
+        {
+            "type": "java",
+            "name": "CreateArray",
+            "request": "launch",
+            "mainClass": "CreateArray",
+            "projectName": "Software-Development-1_ad278edb"
+        },
+        {
+            "type": "java",
+            "name": "Names",
+            "request": "launch",
+            "mainClass": "Names",
+            "projectName": "Software-Development-1_ad278edb"
+        },
+        {
+            "type": "java",
+            "name": "ShoppingList",
+            "request": "launch",
+            "mainClass": "ShoppingList",
+            "projectName": "Software-Development-1_ad278edb"
+        },
+        {
+            "type": "java",
+            "name": "NinthArray",
+            "request": "launch",
+            "mainClass": "NinthArray",
+            "projectName": "Software-Development-1_ad278edb"
+        },
+        {
+            "type": "java",
             "name": "EightArray",
             "request": "launch",
             "mainClass": "EightArray",
