@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercise4 {
+public class Exercise3434 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         String colour = "";
